@@ -1,0 +1,18 @@
+[submodule "ccNOos"]
+	path = ccNOos
+	url = https://github.com/InMechaSol/ccNOos.git
+[submodule "ccNOos_Tests"]
+	path = ccNOos_Tests
+	url = https://github.com/InMechaSol/ccNOos_Tests.git
+[submodule "ccOS_Tests"]
+	path = ccOS_Tests
+	url = https://github.com/InMechaSol/ccOS_Tests.git
+[submodule "ccOS"]
+	path = ccOS
+	url = https://github.com/InMechaSol/ccOS.git
+[submodule "applicationPlatforms/WIN32"]
+	path = applicationPlatforms/WIN32
+	url = https://github.com/InMechaSol/WIN32.git
+[submodule "applicationPlatforms/Ubuntu"]
+	path = applicationPlatforms/Ubuntu
+	url = https://github.com/InMechaSol/Ubuntu.git
