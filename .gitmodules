@@ -28,3 +28,7 @@
 [submodule "Lib_GripperAPI_Tests"]
 	path = Lib_GripperAPI_Tests
 	url = https://github.com/InMechaSol/Lib_GripperAPI_Tests.git
+[submodule "Lib_FreezerAPI"]
+	path = Lib_FreezerAPI
+	url = https://github.com/GSE79/Lib_FreezerAPI.git
+	branch = main
